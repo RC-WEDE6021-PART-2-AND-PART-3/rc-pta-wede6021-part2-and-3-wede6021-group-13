@@ -1,0 +1,5 @@
+Classic T-Shirt|Mens|19.99|L|50|Comfortable cotton t-shirt
+Slim Fit Jeans|Mens|49.99|32|30|Stylish denim jeans
+Floral Dress|Womens|39.99|M|25|Summer floral dress
+Hoodie|Unisex|59.99|XL|40|Warm comfortable hoodie
+Leather Jacket|Mens|129.99|L|15|Premium biker leather jacket

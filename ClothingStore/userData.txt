@@ -1,0 +1,10 @@
+John Doe|john.doe@email.com|john123|John Doe|0|0
+Jane Smith|jane.smith@email.com|jane123|Jane Smith|0|0
+Bob Johnson|bob.johnson@email.com|bob123|Bob Johnson|1|0
+Alice Brown|alice.brown@email.com|alice123|Alice Brown|1|0
+Charlie Wilson|charlie.wilson@email.com|charlie123|Charlie Wilson|0|0
+Sarah Davis|sarah.davis@email.com|sarah123|Sarah Davis|0|0
+Mike Taylor|mike.taylor@email.com|mike123|Mike Taylor|1|0
+Lisa Anderson|lisa.anderson@email.com|lisa123|Lisa Anderson|0|0
+Tom Wilson|tom.wilson@email.com|tom123|Tom Wilson|0|0
+Emma White|emma.white@email.com|emma123|Emma White|1|0

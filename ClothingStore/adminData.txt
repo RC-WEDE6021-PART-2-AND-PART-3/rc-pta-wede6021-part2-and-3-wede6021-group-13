@@ -1,0 +1,5 @@
+admin|admin@clothingstore.com|admin123|System Administrator
+manager|manager@clothingstore.com|manager123|Store Manager
+support|support@clothingstore.com|support123|Customer Support
+inventory|inventory@clothingstore.com|inventory123|Inventory Admin
+marketing|marketing@clothingstore.com|marketing123|Marketing Lead
